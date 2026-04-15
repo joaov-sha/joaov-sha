@@ -10,7 +10,7 @@
   Eu gosto bastante de jogos, música e de criar. Atualmente sou estudante universitário de Tecnologia em Sistemas para Internet através do IFTM, e estou buscando minha primeira vaga como desenvolvedor.
 </p>
 
-<h4> 🌱 Atualmente estudo, utilizo e ou já utilizeias seguintes tecnologias:</h4>
+<h4> 🌱 Atualmente estudo, utilizo e ou já utilizei as seguintes tecnologias:</h4>
 
 <table>
   <tr>
